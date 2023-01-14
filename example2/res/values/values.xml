@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+   Copywrite Meta Inc. and its affiliates. Confidential and proprietary.
+-->
+
+<resources>
+    <!-- Test Overlay -->
+    <string name="config_testComponent" translatable="false">com.mittals.test.vendor.meta.overlay.example2.a.config</string>
+</resources>

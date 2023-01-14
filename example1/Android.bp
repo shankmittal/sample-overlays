@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "Example1Overlay",
+    product_specific: true,
+    sdk_version: "current",
+}

@@ -1,0 +1,5 @@
+runtime_resource_overlay {
+    name: "Example3Overlay",
+    vendor: true,
+    sdk_version: "current",
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Test Overlay -->
+    <item target="string/config_testComponent" value="com.mittals.test.vendor.meta.overlays.example3" />
+    <item target="string/config_test2Component" value="com.mittals.test.vendor.meta.overlays.example3" />
+</overlay>
